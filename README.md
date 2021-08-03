@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Twiitchter
+- 👀 I’m interested in > Video Games, Virtual Worlds and various other things.
+- 🌱 I’m currently learning > C#, Vue, React and other JS Libs.
+- 💞️ I’m looking to collaborate on > FiveM Projects and other Web Development
+- 📫 How to reach me > On Discord in a DM, or from www.Ingenium.games
